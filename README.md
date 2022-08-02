@@ -1,6 +1,7 @@
 # memo
 
 A new Flutter project.
+[policy](https://docs.google.com/document/d/1tlqlJ_PnvHF51sBf8DS_Vof2X3qbrLzvs7hgDah4d_c/edit?usp=sharing)
 
 ## Getting Started
 
